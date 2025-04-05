@@ -1,0 +1,60 @@
+black 010101
+      555555
+      313841
+      898989
+ash  #898989
+yellow fcdb00 
+yellow fcdb02
+
+
+header===================
+
+menu         xxl/xl/lg      md     sm/col
+
+
+padding     xxl/xl/lg       md      sm/col
+             100-120        80       50-60
+
+slider=======
+       
+            xxl/xl/lg       md      sm/col
+            
+      h1     32             32        25
+      h2     20             20        18
+      p      16             16        16/15
+      icon   42             42        35
+      pb     100            100       60
+
+padding     xxl/xl/lg       md      sm/col
+             100-120        80       50-60
+            
+
+header t-b   20   20
+
+
+features-------------
+
+padding      xxl/xl/lg       md      sm/col
+top            100
+bottom         120
+
+margin-top      70           50        30
+
+
+
+
+
+
+
+
+
+
+
+
+
+<i class="list-inline-item fa-brands fa-apple"></i>
+<i class="list-inline-item fa-brands fa-android"></i>
+<i class="list-inline-item fa-brands fa-windows"></i>
+
+
+
